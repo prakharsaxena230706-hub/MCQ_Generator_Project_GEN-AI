@@ -1,6 +1,4 @@
 MCQ,Choices,Correct
-What is a machine learning model primarily used for?,a: Creating databases | b: Making predictions or classifications | c: Storing data | d: Programming software,b
-What adjusts the internal parameters of a machine learning model during training?,a: Data input | b: Learning algorithm | c: User commands | d: Random selection,b
-What loosely inspires artificial neural networks (ANNs)?,a: Computers | b: Biological neural networks | c: Mathematical equations | d: Statistical models,b
-What are the connections between artificial neurons in an ANN called?,a: Nodes | b: Weights | c: Edges | d: Signals,c
-What type of function is typically used to compute the output of an artificial neuron?,a: Linear function | b: Non-linear function | c: Quadratic function | d: Exponential function,b
+What does the International Organization for Standardization (ISO) define cloud computing as?,a: A method of offline data storage | b: A paradigm for enabling network access to a scalable pool of resources | c: A type of software installation | d: A hardware-only solution,b
+Which company is credited with the early use of the term 'cloud' in relation to virtualized services?,a: Amazon | b: Compaq | c: General Magic | d: IBM,c
+What significant cloud service did Amazon launch in 2006?,a: Amazon DynamoDB | b: Amazon Web Services | c: Amazon S3 and Amazon EC2 | d: AWS Outposts,c
