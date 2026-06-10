@@ -12,8 +12,9 @@ from src.MCQ_Generator.logger import logging
 
 
 #loading json file
-with open('D:\MCQ_Generator_Project_GEN-AI\Response.json','r') as file:
-    RESPONSE_JSON = json.load(file)
+current_dir = os.path.dirname(os.path.abspath(__file__))
+json_path = os.path.join(current_dir, 'Response.json')
+RESPONSE_JSON = json.load(file)
 
 #Creating a title for the application
 st.title("MCQs Generator Appilcation with LangChain 🦜🔗")
