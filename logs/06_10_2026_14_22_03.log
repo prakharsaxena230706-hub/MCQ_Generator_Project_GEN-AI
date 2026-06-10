@@ -1,0 +1,1 @@
+[2026-06-10 14:26:23,464] 26 root - ERROR - Error reading file: 'UploadedFile' object has no attribute 'lower'
